@@ -1,4 +1,4 @@
-# Welcome Windsmith's GitHub Pages
+# Welcome to Windsmith's GitHub Page
 
 ## Projects
 
